@@ -32,5 +32,5 @@ Some projects I work on:
 | [Home Assistant Toon Climate](https://github.com/cyberjunky/home-assistant-toon_climate) | Integration | Toon Thermostat |
 | [Home Assistant Toon Boilerstatus](https://github.com/cyberjunky/home-assistant-toon_boilerstatus) | Integration | Read boiler information from Toon |
 | [Home Assistant Toon Smartmeter](https://github.com/cyberjunky/home-assistant-toon_smartmeter) | Integration | Read smartmeter data from Toon |
-| [Home Assistant Arpcsan Tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) | Integration | Superfast presence detection |
+| [Home Assistant Arpscan Tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) | Integration | Superfast presence detection |
 | [HOme Assistant HVC Groep](https://github.com/cyberjunky/home-assistant-hvcgroep) | Integration | Garbage collector data for HVC Groep |
