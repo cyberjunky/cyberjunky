@@ -34,3 +34,4 @@ Some projects I work on:
 | [Home Assistant Toon Smartmeter](https://github.com/cyberjunky/home-assistant-toon_smartmeter) | Integration | Read smartmeter data from Toon |
 | [Home Assistant Arpscan Tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) | Integration | Superfast presence detection |
 | [Home Assistant HVC Groep](https://github.com/cyberjunky/home-assistant-hvcgroep) | Integration | Garbage collector data for HVC Groep |
+| [Home Assistant P2000 RTL-SDR Addon](https://github.com/cyberjunky/addon-p2000_rtlsdr) | Addon | Receive P2000 messages from the air using an RTL-SDR dongle |
