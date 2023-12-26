@@ -13,9 +13,6 @@ I'm Ron aka 'cyberjunky', i'm based in The Netherlands, I work as a IT Security 
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
     </a>
 </p>
-<p align="center">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/cyberjunky" style="vertical-align:top; margin:4px">
-</p>
 
 ---
 🚀 Projects
