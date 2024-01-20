@@ -33,4 +33,6 @@ Some projects I work on:
 | [Home Assistant HVC Groep](https://github.com/cyberjunky/home-assistant-hvcgroep) | Integration | Garbage collector data for HVC Groep |
 | [Home Assistant P2000 RTL-SDR Addon](https://github.com/cyberjunky/addon-p2000_rtlsdr) | Addon | Receive P2000 messages from the air using an RTL-SDR dongle |
 | [Home Assistant Bitvavo](https://github.com/cyberjunky/home-assistant-bitvavo) | Integration | Expose Bitvavo values inside Home Assistant |
+| [Home Assistant Shell Recharge](https://github.com/cyberjunky/home-assistant-shell_recharge) | Integration | Expose data from EV chargers listed on shellrecharge.com to Home Assistant|
+| [python-shellrecharge](https://github.com/cyberjunky/python-shellrecharge) | Python package | Python client for reading EV charger information from shellrecharge.com |
 
