@@ -25,6 +25,7 @@ Some projects I work on:
 | [Home Assistant Garmin Connect](https://github.com/cyberjunky/home-assistant-garmin_connect) | Integration | Get sensor data from Garmin Connect inside Home Assistant |
 | [Home Assistant FireServiceRota](https://www.home-assistant.io/integrations/fireservicerota/) | Integration | Duty schedule and alerts for firefighters |
 | [python-garminconnect](https://github.com/cyberjunky/python-garminconnect) | Python package | Python client for reading your Garmin Connect data |
+| [python-fireservicerota](https://github.com/cyberjunky/python-fireservicerota) | Python package | Python client for talking to FireServiceRota/Brandweerrooster API |
 | [3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots) | Python scripts | Tools to help you trade with 3commas bots |
 | [Home Assistant Toon Climate](https://github.com/cyberjunky/home-assistant-toon_climate) | Integration | Toon Thermostat |
 | [Home Assistant Toon Boilerstatus](https://github.com/cyberjunky/home-assistant-toon_boilerstatus) | Integration | Read boiler information from Toon |
