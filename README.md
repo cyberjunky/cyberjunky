@@ -1,40 +1,119 @@
-Hi there! 🤙🏻
-I'm Ron aka 'cyberjunky', i'm based in The Netherlands, I work as a IT Security Manager and one of my hobbies is programming in Python! Take a look around and if you have any questions, feel free to ask them via email or socials!
-
+<!-- Header with animated typing effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+🤙🏻;I'm+Ron+aka+'cyberjunky';Welcome+to+my+GitHub!&center=true&size=30&color=58a6ff&width=600&height=50">
+</h1>
 
 <p align="center">
-    <a href="https://cyberjunky.nl">
-        <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.linkedin.com/in/ronklinkien">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://twitter.com/cyberjunky">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-    </a>
+  <img src="https://komarev.com/ghpvc/?username=cyberjunky&style=for-the-badge&color=58a6ff" alt="Profile Views"/>
+</p>
+
+<!-- About Me Section -->
+<div align="center">
+  
+  ### 👨‍💻 About Me
+  
+  🇳🇱 Based in **The Netherlands**  
+  🔐 **IT Security Manager** by day  
+  🐍 **Python enthusiast** by passion  
+  🏠 **Home Assistant** contributor  
+  📈 **Crypto trading** automation  
+</div>
+
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=home-assistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+</p>
+
+<!-- Connect Section -->
+<h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+  <a href="https://cyberjunky.nl">
+    <img src="https://img.shields.io/badge/Website-cyberjunky.nl-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ronklinkien">
+    <img src="https://img.shields.io/badge/LinkedIn-ronklinkien-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/cyberjunky">
+    <img src="https://img.shields.io/badge/Twitter-@cyberjunky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
-🚀 Projects
-I'm always busy with all kinds of projects. This mainly contains contributions for Home Assistant (home configurations and integrations) and crypto related bots and bothelpers.
 
-Some projects I work on:
+<!-- Projects Section -->
+<h2 align="center">🚀 Projects</h2>
 
-| Projects | Type | Description |
-|----------|:----:|-------------|
-| [Home Assistant Omnik Inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Integration | Monitor older Omnik Solar inverters via the network using special TCP packets |
-| [Home Assistant Garmin Connect](https://github.com/cyberjunky/home-assistant-garmin_connect) | Integration | Get sensor data from Garmin Connect inside Home Assistant |
-| [Home Assistant FireServiceRota](https://www.home-assistant.io/integrations/fireservicerota/) | Integration | Duty schedule and alerts for firefighters |
-| [python-garminconnect](https://github.com/cyberjunky/python-garminconnect) | Python package | Python client for reading your Garmin Connect data |
-| [python-fireservicerota](https://github.com/cyberjunky/python-fireservicerota) | Python package | Python client for talking to FireServiceRota/Brandweerrooster API |
-| [3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots) | Python scripts | Tools to help you trade with 3commas bots |
-| [Home Assistant Toon Climate](https://github.com/cyberjunky/home-assistant-toon_climate) | Integration | Toon Thermostat |
-| [Home Assistant Toon Boilerstatus](https://github.com/cyberjunky/home-assistant-toon_boilerstatus) | Integration | Read boiler information from Toon |
-| [Home Assistant Toon Smartmeter](https://github.com/cyberjunky/home-assistant-toon_smartmeter) | Integration | Read smartmeter data from Toon |
-| [Home Assistant Arpscan Tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) | Integration | Superfast presence detection |
-| [Home Assistant HVC Groep](https://github.com/cyberjunky/home-assistant-hvcgroep) | Integration | Garbage collector data for HVC Groep |
-| [Home Assistant P2000 RTL-SDR Addon](https://github.com/cyberjunky/addon-p2000_rtlsdr) | Addon | Receive P2000 messages from the air using an RTL-SDR dongle |
-| [Home Assistant Bitvavo](https://github.com/cyberjunky/home-assistant-bitvavo) | Integration | Expose Bitvavo values inside Home Assistant |
-| [Home Assistant Shell Recharge](https://github.com/cyberjunky/home-assistant-shell_recharge) | Integration | Expose data from EV chargers listed on shellrecharge.com to Home Assistant|
-| [python-shellrecharge](https://github.com/cyberjunky/python-shellrecharge) | Python package | Python client for reading EV charger information from shellrecharge.com |
+### 🏠 Home Assistant Integrations
 
+| Project | Description |
+|---------|-------------|
+| [home-assistant-garmin_connect](https://github.com/cyberjunky/home-assistant-garmin_connect) | Get sensor data from Garmin Connect inside Home Assistant |
+| [home-assistant-omnik_inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Monitor older Omnik Solar inverters via the network using special TCP packets |
+| [home-assistant-fireservicerota](https://www.home-assistant.io/integrations/fireservicerota/) | Duty schedule and alerts for firefighters |
+| [home-assistant-toon_climate](https://github.com/cyberjunky/home-assistant-toon_climate) | Toon Thermostat climate control |
+| [home-assistant-toon_boilerstatus](https://github.com/cyberjunky/home-assistant-toon_boilerstatus) | Read boiler information from Toon |
+| [home-assistant-toon_smartmeter](https://github.com/cyberjunky/home-assistant-toon_smartmeter) | Read smartmeter data from Toon |
+| [home-assistant-arpscan_tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) | Superfast presence detection |
+| [home-assistant-hvcgroep](https://github.com/cyberjunky/home-assistant-hvcgroep) | Garbage collector data for HVC Groep |
+| [home-assistant-bitvavo](https://github.com/cyberjunky/home-assistant-bitvavo) | Expose Bitvavo values inside Home Assistant |
+| [home-assistant-shell_recharge](https://github.com/cyberjunky/home-assistant-shell_recharge) | Expose data from EV chargers listed on shellrecharge.com |
+
+### 📡 Add-ons
+
+| Project | Description |
+|---------|-------------|
+| [addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr) | Receive P2000 messages from the air using an RTL-SDR dongle |
+
+### 🐍 Python Packages
+
+| Project | Description |
+|---------|-------------|
+| [python-garminconnect](https://github.com/cyberjunky/python-garminconnect) | Python client for reading your Garmin Connect data |
+| [python-fireservicerota](https://github.com/cyberjunky/python-fireservicerota) | Python client for talking to FireServiceRota/Brandweerrooster API |
+| [python-shellrecharge](https://github.com/cyberjunky/python-shellrecharge) | Python client for reading EV charger information from shellrecharge.com |
+
+### 📈 Crypto Tools
+
+| Project | Description |
+|---------|-------------|
+| [3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots) | Tools to help you trade with 3commas bots |
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyberjunky&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberjunky&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberjunky&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</p>
+
+---
+
+<!-- Support Section -->
+<h2 align="center">💖 Support My Work</h2>
+<p align="center">
+  If you find my projects useful, consider supporting their development:
+</p>
+<p align="center">
+  <a href="https://www.paypal.me/cyberjunkynl/">
+    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+  <a href="https://github.com/sponsors/cyberjunky">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-Support-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer"/>
+</p>
