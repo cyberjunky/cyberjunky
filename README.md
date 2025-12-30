@@ -22,6 +22,7 @@ Some projects I work on:
 
 | Projects | Type | Description |
 |----------|:----:|-------------|
+| [Home Assistant Omnik Inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Integration | Monitor older Omnik Solar inverters via the network using special TCP packets |
 | [Home Assistant Garmin Connect](https://github.com/cyberjunky/home-assistant-garmin_connect) | Integration | Get sensor data from Garmin Connect inside Home Assistant |
 | [Home Assistant FireServiceRota](https://www.home-assistant.io/integrations/fireservicerota/) | Integration | Duty schedule and alerts for firefighters |
 | [python-garminconnect](https://github.com/cyberjunky/python-garminconnect) | Python package | Python client for reading your Garmin Connect data |
