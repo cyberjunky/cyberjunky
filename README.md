@@ -3,21 +3,59 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+🤙🏻;I'm+Ron+aka+'cyberjunky';Welcome+to+my+GitHub!&center=true&size=30&color=58a6ff&width=600&height=50">
 </h1>
 
+---
+
+<!-- Projects Section -->
+<h2 align="center">🚀 Projects</h2>
+
+### 🏠 Home Assistant Core Integrations
+
+| Project | Description |
+|---------|-------------|
+| [FireServiceRota](https://www.home-assistant.io/integrations/fireservicerota/) | FireServiceRota scheduling and dispatching system for firefighters |
+
+### 🏠 Home Assistant Custom Integrations
+
+| Project | Description |
+|---------|-------------|
+| [home-assistant-garmin_connect](https://github.com/cyberjunky/home-assistant-garmin_connect) | Get sensor data from Garmin Connect inside Home Assistant |
+| [home-assistant-omnik_inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Monitor older Omnik Solar inverters via the network using special TCP packets |
+| [home-assistant-fireservicerota](https://www.home-assistant.io/integrations/fireservicerota/) | Duty schedule and alerts for firefighters |
+| [home-assistant-toon_climate](https://github.com/cyberjunky/home-assistant-toon_climate) | Toon Thermostat climate control |
+| [home-assistant-toon_boilerstatus](https://github.com/cyberjunky/home-assistant-toon_boilerstatus) | Read boiler information from Toon |
+| [home-assistant-toon_smartmeter](https://github.com/cyberjunky/home-assistant-toon_smartmeter) | Read smartmeter data from Toon |
+| [home-assistant-arpscan_tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) | Superfast presence detection |
+| [home-assistant-hvcgroep](https://github.com/cyberjunky/home-assistant-hvcgroep) | Garbage collector data for HVC Groep |
+| [home-assistant-bitvavo](https://github.com/cyberjunky/home-assistant-bitvavo) | Expose Bitvavo values inside Home Assistant |
+| [home-assistant-shell_recharge](https://github.com/cyberjunky/home-assistant-shell_recharge) | Expose data from EV chargers listed on shellrecharge.com |
+| [home-assistant-omnik_inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Read data from older Omnik Inverters using TCP packets |
+
+### 📡 Home Assistant Add-ons
+
+| Project | Description |
+|---------|-------------|
+| [addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr) | Receive P2000 messages from the air using an RTL-SDR dongle |
+
+### 🐍 Python Packages
+
+| Project | Description |
+|---------|-------------|
+| [aiogarmin](https://github.com/cyberjunky/aiogarmin) | Async Python client for Garmin Connect API, designed for Home Assistant integration |
+| [python-garminconnect](https://github.com/cyberjunky/python-garminconnect) | Python client for reading your Garmin Connect data |
+| [python-fireservicerota](https://github.com/cyberjunky/python-fireservicerota) | Python client for talking to FireServiceRota/Brandweerrooster API |
+| [python-shellrecharge](https://github.com/cyberjunky/python-shellrecharge) | Python client for reading EV charger information from shellrecharge.com |
+
+### 📈 Crypto Tools
+
+| Project | Description |
+|---------|-------------|
+| [3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots) | Tools to help you trade with 3commas bots (deprecated) |
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyberjunky&style=for-the-badge&color=58a6ff" alt="Profile Views"/>
 </p>
-
-<!-- About Me Section -->
-<div align="center">
-  
-  ### 👨‍💻 About Me
-  
-  🇳🇱 Based in **The Netherlands**  
-  🔐 **IT Security Manager** by day  
-  🐍 **Python enthusiast** by passion  
-  🏠 **Home Assistant** contributor  
-  📈 **Crypto trading** automation  
-</div>
 
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -42,50 +80,6 @@
     <img src="https://img.shields.io/badge/Twitter-@cyberjunky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
----
-
-<!-- Projects Section -->
-<h2 align="center">🚀 Projects</h2>
-
-### 🏠 Home Assistant Integrations
-
-| Project | Description |
-|---------|-------------|
-| [home-assistant-garmin_connect](https://github.com/cyberjunky/home-assistant-garmin_connect) | Get sensor data from Garmin Connect inside Home Assistant |
-| [home-assistant-omnik_inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Monitor older Omnik Solar inverters via the network using special TCP packets |
-| [home-assistant-fireservicerota](https://www.home-assistant.io/integrations/fireservicerota/) | Duty schedule and alerts for firefighters |
-| [home-assistant-toon_climate](https://github.com/cyberjunky/home-assistant-toon_climate) | Toon Thermostat climate control |
-| [home-assistant-toon_boilerstatus](https://github.com/cyberjunky/home-assistant-toon_boilerstatus) | Read boiler information from Toon |
-| [home-assistant-toon_smartmeter](https://github.com/cyberjunky/home-assistant-toon_smartmeter) | Read smartmeter data from Toon |
-| [home-assistant-arpscan_tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) | Superfast presence detection |
-| [home-assistant-hvcgroep](https://github.com/cyberjunky/home-assistant-hvcgroep) | Garbage collector data for HVC Groep |
-| [home-assistant-bitvavo](https://github.com/cyberjunky/home-assistant-bitvavo) | Expose Bitvavo values inside Home Assistant |
-| [home-assistant-shell_recharge](https://github.com/cyberjunky/home-assistant-shell_recharge) | Expose data from EV chargers listed on shellrecharge.com |
-| [home-assistant-omnik_inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Read data from older Omnik Inverters using TCP packets |
-
-### 📡 Add-ons
-
-| Project | Description |
-|---------|-------------|
-| [addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr) | Receive P2000 messages from the air using an RTL-SDR dongle |
-
-### 🐍 Python Packages
-
-| Project | Description |
-|---------|-------------|
-| [aiogarmin](https://github.com/cyberjunky/aiogarmin) | Async Python client for Garmin Connect API, designed for Home Assistant integration |
-| [python-garminconnect](https://github.com/cyberjunky/python-garminconnect) | Python client for reading your Garmin Connect data |
-| [python-fireservicerota](https://github.com/cyberjunky/python-fireservicerota) | Python client for talking to FireServiceRota/Brandweerrooster API |
-| [python-shellrecharge](https://github.com/cyberjunky/python-shellrecharge) | Python client for reading EV charger information from shellrecharge.com |
-
-### 📈 Crypto Tools
-
-| Project | Description |
-|---------|-------------|
-| [3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots) | Tools to help you trade with 3commas bots |
-
----
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Activity</h2>
