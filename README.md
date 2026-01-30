@@ -62,6 +62,7 @@
 | [home-assistant-hvcgroep](https://github.com/cyberjunky/home-assistant-hvcgroep) | Garbage collector data for HVC Groep |
 | [home-assistant-bitvavo](https://github.com/cyberjunky/home-assistant-bitvavo) | Expose Bitvavo values inside Home Assistant |
 | [home-assistant-shell_recharge](https://github.com/cyberjunky/home-assistant-shell_recharge) | Expose data from EV chargers listed on shellrecharge.com |
+| [home-assistant-omnik_inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Read data from older Omnik Inverters using TCP packets |
 
 ### 📡 Add-ons
 
