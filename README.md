@@ -1,12 +1,5 @@
-<!-- Header with animated typing effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+🤙🏻;I'm+Ron+aka+'cyberjunky';Welcome+to+my+GitHub!&center=true&size=30&color=58a6ff&width=600&height=50">
-</h1>
-
----
-
 <!-- Projects Section -->
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">🚀 My Projects</h2>
 
 ### 🏠 Home Assistant Core Integrations
 
