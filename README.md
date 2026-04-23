@@ -12,7 +12,6 @@
 | Project | Description |
 |---------|-------------|
 | [home-assistant-garmin_connect](https://github.com/cyberjunky/home-assistant-garmin_connect) | Get sensor data from Garmin Connect inside Home Assistant |
-| [home-assistant-omnik_inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Monitor older Omnik Solar inverters via the network using special TCP packets |
 | [home-assistant-fireservicerota](https://www.home-assistant.io/integrations/fireservicerota/) | Duty schedule and alerts for firefighters |
 | [home-assistant-toon_climate](https://github.com/cyberjunky/home-assistant-toon_climate) | Toon Thermostat climate control |
 | [home-assistant-toon_boilerstatus](https://github.com/cyberjunky/home-assistant-toon_boilerstatus) | Read boiler information from Toon |
