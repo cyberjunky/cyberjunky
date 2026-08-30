@@ -27,7 +27,8 @@
 
 | Project | Description |
 |---------|-------------|
-| [addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr) | Receive P2000 messages from the air using an RTL-SDR dongle |
+| [addon-meldkamer](https://github.com/cyberjunky/addon-meldkamer) | Receive P2000 messages from the air using an SDR dongle, includes dashboard |
+| [addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr) | Receive P2000 messages from the air using an RTL-SDR dongle (deprecated) |
 
 ### 🐍 Python Packages
 
