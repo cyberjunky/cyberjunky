@@ -22,7 +22,7 @@
 | [home-assistant-shell_recharge](https://github.com/cyberjunky/home-assistant-shell_recharge) | Expose data from EV chargers listed on shellrecharge.com |
 | [home-assistant-omnik_inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Monitor older Omnik Solar inverters via the network using special TCP packets |
 | [home-assistant-bitaxe_monitor](https://github.com/cyberjunky/home-assistant-bitaxe_monitor) | Monitor Bitaxe solo Bitcoin miners |
-| [https://github.com/cyberjunky/home-assistant-adlerlicht_de | Monitor German Police events |
+| [home-assistant-adlerlicht_de](https://github.com/cyberjunky/home-assistant-adlerlicht_de) | Monitor German Police events |
 
 ### 📡 Home Assistant Add-ons
 
