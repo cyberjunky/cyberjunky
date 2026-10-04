@@ -24,6 +24,7 @@
 | [home-assistant-bitaxe_monitor](https://github.com/cyberjunky/home-assistant-bitaxe_monitor) | Monitor Bitaxe solo Bitcoin miners |
 | [home-assistant-adlerlicht_de](https://github.com/cyberjunky/home-assistant-adlerlicht_de) | Monitor German Police events |
 | [home-assistant-gaia_station](https://github.com/cyberjunky/home-assistant-gaia_station) | Read data from GAIA Air Quality Monitors |
+| [home-assistant-tibber_pricing_de](https://github.com/cyberjunky/home-assistant-tibber_pricing_de) | Track energy pricing from Tibber Germany |
 
 ### 📡 Home Assistant Add-ons
 
