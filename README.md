@@ -23,6 +23,7 @@
 | [home-assistant-omnik_inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Monitor older Omnik Solar inverters via the network using special TCP packets |
 | [home-assistant-bitaxe_monitor](https://github.com/cyberjunky/home-assistant-bitaxe_monitor) | Monitor Bitaxe solo Bitcoin miners |
 | [home-assistant-adlerlicht_de](https://github.com/cyberjunky/home-assistant-adlerlicht_de) | Monitor German Police events |
+| [home-assistant-gaia_station](https://github.com/cyberjunky/home-assistant-gaia_station) | Read data from GAIA Air Quality Monitors |
 
 ### 📡 Home Assistant Add-ons
 
