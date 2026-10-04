@@ -19,7 +19,7 @@
 | [home-assistant-arpscan_tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) | Superfast presence detection |
 | [home-assistant-hvcgroep](https://github.com/cyberjunky/home-assistant-hvcgroep) | Garbage collector data for HVC Groep |
 | [home-assistant-bitvavo](https://github.com/cyberjunky/home-assistant-bitvavo) | Expose Bitvavo values inside Home Assistant |
-| [home-assistant-shell_recharge](https://github.com/cyberjunky/home-assistant-shell_recharge) | Expose data from EV chargers listed on shellrecharge.com |
+| ~~[home-assistant-shell_recharge](https://github.com/cyberjunky/home-assistant-shell_recharge)~~ | ~~Expose data from EV chargers listed on shellrecharge.com~~ (deprecated) |
 | [home-assistant-omnik_inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Monitor older Omnik Solar inverters via the network using special TCP packets |
 | [home-assistant-bitaxe_monitor](https://github.com/cyberjunky/home-assistant-bitaxe_monitor) | Monitor Bitaxe solo Bitcoin miners |
 | [home-assistant-adlerlicht_de](https://github.com/cyberjunky/home-assistant-adlerlicht_de) | Monitor German Police events |
