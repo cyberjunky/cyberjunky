@@ -40,7 +40,7 @@
 | [ha-garmin](https://github.com/cyberjunky/ha-garmin) | Python client for Garmin Connect API, designed for Home Assistant integration |
 | [python-garminconnect](https://github.com/cyberjunky/python-garminconnect) | Python client for reading your Garmin Connect data |
 | [python-fireservicerota](https://github.com/cyberjunky/python-fireservicerota) | Python client for talking to FireServiceRota/Brandweerrooster API |
-| [python-shellrecharge](https://github.com/cyberjunky/python-shellrecharge) | Python client for reading EV charger information from shellrecharge.com |
+| ~~[python-shellrecharge](https://github.com/cyberjunky/python-shellrecharge)~~ | ~~Python client for reading EV charger information from shellrecharge.com~~ (deprecated) |
 
 ### 📈 Crypto Tools
 
