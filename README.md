@@ -42,6 +42,7 @@
 | [python-garminconnect](https://github.com/cyberjunky/python-garminconnect) | Python client for reading your Garmin Connect data |
 | [python-fireservicerota](https://github.com/cyberjunky/python-fireservicerota) | Python client for talking to FireServiceRota/Brandweerrooster API |
 | ~~[python-shellrecharge](https://github.com/cyberjunky/python-shellrecharge)~~ | ~~Python client for reading EV charger information from shellrecharge.com~~ (deprecated) |
+| [bitvavo-aio](https://github.com/cyberjunky/bitvavo-aio) | Python client for crypto information from Bitvavo |
 
 ### 📈 Crypto Tools
 
