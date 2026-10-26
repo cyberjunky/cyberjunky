@@ -26,7 +26,7 @@
 | [home-assistant-gaia_station](https://github.com/cyberjunky/home-assistant-gaia_station) | Read data from local GAIA Air Quality Monitors |
 | [home-assistant-tibber_pricing_de](https://github.com/cyberjunky/home-assistant-tibber_pricing_de) | Track energy pricing from Tibber Germany |
 
-### 📡 Home Assistant Add-ons
+### 📡 Home Assistant Apps (Add-ons)
 
 | Project | Description |
 |---------|-------------|
