@@ -81,7 +81,7 @@
   <a href="https://twitter.com/cyberjunky">
     <img src="https://img.shields.io/badge/Twitter-@cyberjunky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-   <a href=" https://discord.gg/hUBQxRhJCU">
+   <a href="https://discord.gg/hUBQxRhJCU">
     <img src="https://img.shields.io/badge/Discord-@cyberjunky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
