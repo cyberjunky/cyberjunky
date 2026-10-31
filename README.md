@@ -25,6 +25,8 @@
 | [home-assistant-adlerlicht_de](https://github.com/cyberjunky/home-assistant-adlerlicht_de) | Monitor German Police events |
 | [home-assistant-gaia_station](https://github.com/cyberjunky/home-assistant-gaia_station) | Read data from local GAIA Air Quality Monitors |
 | [home-assistant-tibber_pricing_de](https://github.com/cyberjunky/home-assistant-tibber_pricing_de) | Track energy pricing from Tibber Germany |
+| [home-assistant-moving_intelligence](https://github.com/cyberjunky/home-assistant-moving_intelligence) | Moving Intelligence Tracker |
+
 
 ### 📡 Home Assistant Apps (Add-ons)
 
@@ -43,6 +45,7 @@
 | [python-fireservicerota](https://github.com/cyberjunky/python-fireservicerota) | Python client for talking to FireServiceRota/Brandweerrooster API |
 | ~~[python-shellrecharge](https://github.com/cyberjunky/python-shellrecharge)~~ | ~~Python client for reading EV charger information from shellrecharge.com~~ (deprecated) |
 | [bitvavo-aio](https://github.com/cyberjunky/bitvavo-aio) | Python client for crypto information from Bitvavo |
+| [python-moving_intelligence-ha](https://github.com/cyberjunky/python-moving_intelligence-ha) | Python client for Moving Intelligence Tracker |
 
 ### 📈 Crypto Tools
 
