@@ -85,6 +85,12 @@
     <img src="https://img.shields.io/badge/Discord-@cyberjunky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <a href="https://discord.gg/hUBQxRhJCU">
+    <img src="https://raw.githubusercontent.com/cyberjunky/cyberjunky/main/assets/junkyard-discord.svg"
+         alt="Join The Junkyard on Discord" width="600" />
+  </a>
+</p>
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Activity</h2>
