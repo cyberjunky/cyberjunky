@@ -1,5 +1,5 @@
 <!-- Projects Section -->
-<h2 align="center">🚀 My Projects</h2>
+<h2 align="center">🚀 My Projects - this is where most of my free time is spent -</h2>
 
 ### 🏠 Home Assistant Core Integrations
 
@@ -53,6 +53,11 @@
 |---------|-------------|
 | [3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots) | Tools to help you trade with 3commas bots (deprecated) |
 
+### 🕐 Garmin IQ Apps
+
+| Project | Description |
+|---------|-------------|
+| [japanese-interval-walking](https://github.com/cyberjunky/japanese-interval-walking) | My first Garmin IQ app - Interval walking |
 ---
 
 <p align="center">
