@@ -51,7 +51,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots) | Tools to help you trade with 3commas bots (deprecated) |
+| ~~[3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots)~~ | ~~Tools to help you trade with 3commas bots~~ (deprecated) |
 
 ### 🕐 Garmin IQ Apps
 
