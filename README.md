@@ -34,7 +34,7 @@
 |---------|-------------|
 | [home-assistant-apps](https://github.com/cyberjunky/home-assistant-apps) | My collection of Home Assistant Apps / Addons |
 | [addon-meldkamer](https://github.com/cyberjunky/addon-meldkamer) | Receive P2000 messages from the air using an SDR dongle, includes dashboard |
-| [addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr) | Receive P2000 messages from the air using an RTL-SDR dongle (deprecated) |
+| ~~[addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr)~~ | ~~Receive P2000 messages from the air using an RTL-SDR dongle~~ (deprecated) |
 
 ### 🐍 Python Packages
 
