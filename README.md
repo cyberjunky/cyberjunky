@@ -1,3 +1,9 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cyberjunky/cyberjunky/main/assets/cyberjunky-banner.gif"
+       alt="cyberjunky" width="790" />
+</p>
+
 <!-- Projects Section -->
 <h2 align="center">🚀 My Projects - this is where most of my free time is spent -</h2>
 
