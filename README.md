@@ -13,6 +13,15 @@
 |---------|-------------|
 | [FireServiceRota](https://www.home-assistant.io/integrations/fireservicerota/) | FireServiceRota scheduling and dispatching system for firefighters |
 
+### 📡 Home Assistant Apps (Add-ons)
+
+| Project | Description |
+|---------|-------------|
+| [addon-meldkamer](https://github.com/cyberjunky/addon-meldkamer) | Receive P2000 messages from the air using an SDR dongle, includes dashboard |
+| [addon-teslameter](https://github.com/cyberjunky/addon-teslameter) | Tesla logger, statistics and dashboard for Home Assistant |
+| [home-assistant-apps](https://github.com/cyberjunky/home-assistant-apps) | My collection of Home Assistant Apps / Addons |
+| ~~[addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr)~~ | ~~Receive P2000 messages from the air using an RTL-SDR dongle~~ (deprecated) |
+
 ### 🏠 Home Assistant Custom Integrations
 
 | Project | Description |
@@ -32,15 +41,6 @@
 | [home-assistant-gaia_station](https://github.com/cyberjunky/home-assistant-gaia_station) | Read data from local GAIA Air Quality Monitors |
 | [home-assistant-tibber_pricing_de](https://github.com/cyberjunky/home-assistant-tibber_pricing_de) | Track energy pricing from Tibber Germany |
 | [home-assistant-moving_intelligence](https://github.com/cyberjunky/home-assistant-moving_intelligence) | Moving Intelligence Tracker |
-
-
-### 📡 Home Assistant Apps (Add-ons)
-
-| Project | Description |
-|---------|-------------|
-| [home-assistant-apps](https://github.com/cyberjunky/home-assistant-apps) | My collection of Home Assistant Apps / Addons |
-| [addon-meldkamer](https://github.com/cyberjunky/addon-meldkamer) | Receive P2000 messages from the air using an SDR dongle, includes dashboard |
-| ~~[addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr)~~ | ~~Receive P2000 messages from the air using an RTL-SDR dongle~~ (deprecated) |
 
 ### 🐍 Python Packages
 
