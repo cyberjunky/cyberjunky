@@ -7,6 +7,13 @@
 <!-- Projects Section -->
 <h2 align="center">🚀 My Projects - this is where most of my free time is spent -</h2>
 
+### 🌍 Websites
+
+| Project | Description |
+|---------|-------------|
+| [freqle.org](https://freqle.org) | Freqtrade strategy lab |
+| [cyberjunky.nl](https://cyberjunky.nl) | My website (needs an update) |
+
 ### 🏠 Home Assistant Core Integrations
 
 | Project | Description |
