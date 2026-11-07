@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyberjunky/cyberjunky/main/assets/cyberjunky-banner.gif"
+  <img src="https://raw.githubusercontent.com/cyberjunky/cyberjunky/main/assets/cyberjunky-banner.svg"
        alt="cyberjunky" width="790" />
 </p>
 
