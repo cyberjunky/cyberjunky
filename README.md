@@ -36,6 +36,7 @@
 | ↳ [app-fireservicerota](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-fireservicerota) | FireServiceRota / Brandweerrooster dashboard: live incident, respond, duty and history |
 | ↳ [app-nuclei](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-nuclei) | Internal vulnerability scanner: CVEs, exposed services and open ports, as tickets you work through |
 | ↳ [app-arcade](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-arcade) | Classic arcade games with MAME in your browser, high scores kept (bring your own ROMs) |
+| ↳ [app-chronicle](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-chronicle) | Dashboard for the Chronicle integration's history in TimescaleDB: entities, charts, storage and compression |
 | ~~[addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr)~~ | ~~Receive P2000 messages from the air using an RTL-SDR dongle~~ (deprecated) |
 
 ### 🏠 Home Assistant Custom Integrations
