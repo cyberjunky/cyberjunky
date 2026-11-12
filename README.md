@@ -37,6 +37,8 @@
 | ↳ [app-nuclei](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-nuclei) | Internal vulnerability scanner: CVEs, exposed services and open ports, as tickets you work through |
 | ↳ [app-arcade](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-arcade) | Classic arcade games with MAME in your browser, high scores kept (bring your own ROMs) |
 | ↳ [app-chronicle](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-chronicle) | Dashboard for the Chronicle integration's history in TimescaleDB: entities, charts, storage and compression |
+| ↳ [app-sdradio](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-sdradio) | Software defined radio receiver with RTL-SDR or HackRF: listen in the browser, scan, and decode pagers, sensors, aircraft and ships |
+| ↳ [app-freqtrade](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-freqtrade) | Dashboard for your Freqtrade trading bots: overview, a page per bot with a candle chart, live trades over the WebSocket |
 | ~~[addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr)~~ | ~~Receive P2000 messages from the air using an RTL-SDR dongle~~ (deprecated) |
 
 ### 🏠 Home Assistant Custom Integrations
