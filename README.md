@@ -41,6 +41,7 @@
 | ↳ [app-freqtrade](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-freqtrade) | Dashboard for your Freqtrade trading bots: overview, a page per bot with a candle chart, live trades over the WebSocket |
 | ↳ [app-proxmox](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-proxmox) | Unofficial dashboard for your Proxmox VE cluster: nodes, guests, backups with RPO and RTO, the network as VLAN lanes and a map, the firewall as a flow |
 | ↳ [app-proxmox-bs](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-proxmox-bs) | Unofficial: a real Proxmox Backup Server for your Proxmox VE backups, on the disks of this machine |
+| ↳ [app-network](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-network) | Every device tracker as a live map of your network: groups and VLANs, rename in Home Assistant, who drops off, and your phones' tracks and heatmap |
 | ~~[addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr)~~ | ~~Receive P2000 messages from the air using an RTL-SDR dongle~~ (deprecated) |
 
 ### 🏠 Home Assistant Custom Integrations
