@@ -39,6 +39,8 @@
 | ↳ [app-chronicle](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-chronicle) | Dashboard for the Chronicle integration's history in TimescaleDB: entities, charts, storage and compression |
 | ↳ [app-sdradio](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-sdradio) | Software defined radio receiver with RTL-SDR or HackRF: listen in the browser, scan, and decode pagers, sensors, aircraft and ships |
 | ↳ [app-freqtrade](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-freqtrade) | Dashboard for your Freqtrade trading bots: overview, a page per bot with a candle chart, live trades over the WebSocket |
+| ↳ [app-proxmox](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-proxmox) | Unofficial dashboard for your Proxmox VE cluster: nodes, guests, backups with RPO and RTO, the network as VLAN lanes and a map, the firewall as a flow |
+| ↳ [app-proxmox-bs](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-proxmox-bs) | Unofficial: a real Proxmox Backup Server for your Proxmox VE backups, on the disks of this machine |
 | ~~[addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr)~~ | ~~Receive P2000 messages from the air using an RTL-SDR dongle~~ (deprecated) |
 
 ### 🏠 Home Assistant Custom Integrations
