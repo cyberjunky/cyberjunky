@@ -66,6 +66,12 @@
 | [home-assistant-moving_intelligence](https://github.com/cyberjunky/home-assistant-moving_intelligence) | Moving Intelligence Tracker |
 | [home-assistant-mikrotik](https://github.com/cyberjunky/home-assistant-mikrotik) | MikroTik routers, switches and access points: devices with the switch port or access point they are on, ports and Wi-Fi |
 
+### ⛏️ Miner Firmware
+
+| Project | Description |
+|---------|-------------|
+| [ESP-Miner-LVXX](https://github.com/cyberjunky/ESP-Miner-LVXX) | Fixes for the Lucky Miner LV08 firmware: real idle power when paused, regulator fault handling, WPA3 Wi-Fi ([releases](https://github.com/cyberjunky/ESP-Miner-LVXX/releases)) |
+
 ### 🐍 Python Packages
 
 | Project | Description |
