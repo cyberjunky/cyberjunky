@@ -42,6 +42,7 @@
 | ↳ [app-proxmox](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-proxmox) | Unofficial dashboard for your Proxmox VE cluster: nodes, guests, backups with RPO and RTO, the network as VLAN lanes and a map, the firewall as a flow |
 | ↳ [app-proxmox-bs](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-proxmox-bs) | Unofficial: a real Proxmox Backup Server for your Proxmox VE backups, on the disks of this machine |
 | ↳ [app-network](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-network) | Every device tracker as a live map of your network: groups and VLANs, rename in Home Assistant, who drops off, and your phones' tracks and heatmap |
+| ↳ [app-bitcoin-node](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-bitcoin-node) | Dashboard for your own Bitcoin node: chain, mempool, fees and peers from Bitcoin Core, your Lightning wallet and channels from LND, and Tor |
 | ~~[addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr)~~ | ~~Receive P2000 messages from the air using an RTL-SDR dongle~~ (deprecated) |
 
 ### 🏠 Home Assistant Custom Integrations
@@ -71,6 +72,7 @@
 | Project | Description |
 |---------|-------------|
 | [ESP-Miner-LVXX](https://github.com/cyberjunky/ESP-Miner-LVXX) | Fixes for the Lucky Miner LV08 firmware: real idle power when paused, reliable pause/resume, regulator fault handling, WPA3 Wi-Fi ([releases](https://github.com/cyberjunky/ESP-Miner-LVXX/releases)) |
+| [ESP-Miner-NerdQAxePlus](https://github.com/cyberjunky/ESP-Miner-NerdQAxePlus) | Fixes for the NerdQAxe+ firmware: quiet fans when paused, silent fan 2 PWM, no web UI stalls, safer pool input and OTA handling ([releases](https://github.com/cyberjunky/ESP-Miner-NerdQAxePlus/releases)) |
 
 ### 🐍 Python Packages
 
