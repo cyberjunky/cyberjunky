@@ -23,7 +23,7 @@
 
 ### 📡 Home Assistant Apps (Add-ons)
 
-| | Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;Project| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp;| Project |nbsp; | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
 |---------|-------------|
 | [home-assistant-apps](https://github.com/cyberjunky/home-assistant-apps) | My collection of Home Assistant Apps / Addons |
 | ↳ [app-dishylink](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-dishylink) | Starlink dish and router dashboard with 24/7 recorded history, powered by Dishylink |
