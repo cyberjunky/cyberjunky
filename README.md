@@ -27,8 +27,8 @@
 |---------|-------------|
 | [home-assistant-apps](https://github.com/cyberjunky/home-assistant-apps) | My collection of Home Assistant Apps / Addons |
 | ↳ [app-dishylink](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-dishylink) | Starlink dish and router dashboard with 24/7 recorded history, powered by Dishylink |
-| ↳ [app-pgadmin4](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-pgadmin4) | pgAdmin 4, web-based PostgreSQL administration from the sidebar |
-| ↳ [app-timescaledb](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-timescaledb) | PostgreSQL with TimescaleDB, PostGIS, pgvector, pg_cron, pgAgent and TimescaleDB Toolkit |
+| ↳ [app-pgadmin4](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-pgadmin4) | pgAdmin 4, web-based PostgreSQL administration from the sidebar *(temporary fork: improvements only, I am not the original author)* |
+| ↳ [app-timescaledb](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-timescaledb) | PostgreSQL with TimescaleDB, PostGIS, pgvector, pg_cron, pgAgent and TimescaleDB Toolkit *(temporary fork: improvements only, I am not the original author)* |
 | ↳ [app-meldkamer](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-meldkamer) | Receive P2000 messages from the air using an SDR dongle, includes dashboard |
 | ↳ [app-goodwe](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-goodwe) | GoodWe inverter dashboard and battery controller for Home Assistant |
 | ↳ [app-tesla](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-tesla) | Unofficial Tesla logger, statistics and dashboard for Home Assistant |
