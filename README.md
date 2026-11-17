@@ -43,7 +43,6 @@
 | ↳ [app-proxmox-bs](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-proxmox-bs) | Unofficial: a real Proxmox Backup Server for your Proxmox VE backups, on the disks of this machine |
 | ↳ [app-network](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-network) | Every device tracker as a live map of your network: groups and VLANs, rename in Home Assistant, who drops off, and your phones' tracks and heatmap |
 | ↳ [app-bitcoin-node](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-bitcoin-node) | Dashboard for your own Bitcoin node: chain, mempool, fees and peers from Bitcoin Core, your Lightning wallet and channels from LND, and Tor |
-| ~~[addon-p2000_rtlsdr](https://github.com/cyberjunky/addon-p2000_rtlsdr)~~ | ~~Receive P2000 messages from the air using an RTL-SDR dongle~~ (deprecated) |
 
 ### 🏠 Home Assistant Custom Integrations
 
@@ -57,7 +56,6 @@
 | [home-assistant-arpscan_tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) | Superfast presence detection |
 | [home-assistant-hvcgroep](https://github.com/cyberjunky/home-assistant-hvcgroep) | Garbage collector data for HVC Groep |
 | [home-assistant-bitvavo](https://github.com/cyberjunky/home-assistant-bitvavo) | Expose Bitvavo values inside Home Assistant |
-| ~~[home-assistant-shell_recharge](https://github.com/cyberjunky/home-assistant-shell_recharge)~~ | ~~Expose data from EV chargers listed on shellrecharge.com~~ (deprecated) |
 | [home-assistant-omnik_inverter](https://github.com/cyberjunky/home-assistant-omnik_inverter) | Monitor older Omnik Solar inverters via the network using special TCP packets |
 | [home-assistant-bitaxe_monitor](https://github.com/cyberjunky/home-assistant-bitaxe_monitor) | Monitor Bitaxe solo Bitcoin miners |
 | [home-assistant-chronicle](https://github.com/cyberjunky/home-assistant-chronicle) | Long-term history of every state in TimescaleDB: compressed, with hourly and daily averages |
@@ -87,15 +85,8 @@
 | [ha-garmin](https://github.com/cyberjunky/ha-garmin) | Python client for Garmin Connect API, designed for Home Assistant integration |
 | [python-garminconnect](https://github.com/cyberjunky/python-garminconnect) | Python client for reading your Garmin Connect data |
 | [python-fireservicerota](https://github.com/cyberjunky/python-fireservicerota) | Python client for talking to FireServiceRota/Brandweerrooster API |
-| ~~[python-shellrecharge](https://github.com/cyberjunky/python-shellrecharge)~~ | ~~Python client for reading EV charger information from shellrecharge.com~~ (deprecated) |
 | [bitvavo-aio](https://github.com/cyberjunky/bitvavo-aio) | Python client for crypto information from Bitvavo |
 | [python-moving_intelligence-ha](https://github.com/cyberjunky/python-moving_intelligence-ha) | Python client for Moving Intelligence Tracker |
-
-### 📈 Crypto Tools
-
-| Project | Description |
-|---------|-------------|
-| ~~[3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots)~~ | ~~Tools to help you trade with 3commas bots~~ (deprecated) |
 
 ### 🕐 Garmin IQ Apps
 
