@@ -74,6 +74,12 @@
 | [ESP-Miner-LVXX](https://github.com/cyberjunky/ESP-Miner-LVXX) | Fixes for the Lucky Miner LV08 firmware: real idle power when paused, reliable pause/resume, regulator fault handling, WPA3 Wi-Fi ([releases](https://github.com/cyberjunky/ESP-Miner-LVXX/releases)) |
 | [ESP-Miner-NerdQAxePlus](https://github.com/cyberjunky/ESP-Miner-NerdQAxePlus) | Fixes for the NerdQAxe+ firmware: quiet fans when paused, silent fan 2 PWM, no web UI stalls, safer pool input and OTA handling ([releases](https://github.com/cyberjunky/ESP-Miner-NerdQAxePlus/releases)) |
 
+### 📻 LoRa & Mesh
+
+| Project | Description |
+|---------|-------------|
+| [MNTD-LoRa-Repeater](https://github.com/cyberjunky/MNTD-LoRa-Repeater) | MNTD Goldspot repurposed as LoRaWAN gateway and Meshtastic repeater |
+
 ### 🐍 Python Packages
 
 | Project | Description |
