@@ -43,6 +43,8 @@
 | ↳ [app-proxmox-bs](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-proxmox-bs) | Unofficial: a real Proxmox Backup Server for your Proxmox VE backups, on the disks of this machine |
 | ↳ [app-network](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-network) | Every device tracker as a live map of your network: groups and VLANs, rename in Home Assistant, who drops off, and your phones' tracks and heatmap |
 | ↳ [app-bitcoin-node](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-bitcoin-node) | Dashboard for your own Bitcoin node: chain, mempool, fees and peers from Bitcoin Core, your Lightning wallet and channels from LND, and Tor |
+| ↳ [app-mqtt](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-mqtt) | The Mosquitto MQTT broker with a dashboard: clients, topics, live traffic, Home Assistant discovery and statistics |
+| ↳ [app-marshal](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-marshal) | Keeps watch over your Marketplace integrations: reads their code and the packages they install for credential and data access, risky code, internet hosts and slow patterns, and ranks them |
 
 ### 🏠 Home Assistant Custom Integrations
 
