@@ -77,6 +77,14 @@
 | [ESP-Miner-LVXX](https://github.com/cyberjunky/ESP-Miner-LVXX) | Fixes for the Lucky Miner LV08 firmware: real idle power when paused, reliable pause/resume, regulator fault handling, WPA3 Wi-Fi ([releases](https://github.com/cyberjunky/ESP-Miner-LVXX/releases)) |
 | [ESP-Miner-NerdQAxePlus](https://github.com/cyberjunky/ESP-Miner-NerdQAxePlus) | Fixes for the NerdQAxe+ firmware: quiet fans when paused, silent fan 2 PWM, no web UI stalls, safer pool input and OTA handling ([releases](https://github.com/cyberjunky/ESP-Miner-NerdQAxePlus/releases)) |
 
+### 🔌 ESPHome Firmware
+
+| Project | Description |
+|---------|-------------|
+| [esp-home](https://github.com/cyberjunky/esp-home) | My collection of ESPHome projects: new firmware for existing gadgets and sensors, so they show up in Home Assistant |
+| ↳ [omgevingsmonitor](https://github.com/cyberjunky/esp-home/tree/main/omgevingsmonitor) | Lean firmware for De Omgevingsmonitor (WoTS 2024): solar-powered through the winter, VOC, sound in dB(A), temperature, humidity and battery life in Home Assistant |
+| ↳ [operame](https://github.com/cyberjunky/esp-home/tree/main/operame) | Operame CO2 monitor *(coming soon)* |
+
 ### 📻 LoRa & Mesh
 
 | Project | Description |
