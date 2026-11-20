@@ -47,6 +47,7 @@
 | ↳ [app‑marshal](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-marshal) | Keeps watch over your Marketplace integrations: reads their code and the packages they install for credential and data access, risky code, internet hosts and slow patterns, and ranks them |
 | ↳ [app‑flipper](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-flipper) | A workbench for a Flipper Zero on USB: see its screen, press its buttons, manage its files, and write, build and run apps on it |
 | ↳ [app‑scanner](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-scanner) | Makes a USB or network scanner a scanner for the whole house: every option of the scanner, batches, searchable PDFs in an archive, and copies to a network share |
+| ↳ [app‑dashboard](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-dashboard) | A wall tablet dashboard in a calm, typographic style that you design by dragging: sensors, lights, climate, charts, calendars and cameras on pages of your own, with the doorbell's camera and a dimmed night |
 
 ### 🏠 Home Assistant Custom Integrations
 
