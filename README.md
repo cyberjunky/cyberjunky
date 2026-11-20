@@ -45,6 +45,8 @@
 | ↳ [app-bitcoin-node](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-bitcoin-node) | Dashboard for your own Bitcoin node: chain, mempool, fees and peers from Bitcoin Core, your Lightning wallet and channels from LND, and Tor |
 | ↳ [app-mqtt](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-mqtt) | The Mosquitto MQTT broker with a dashboard: clients, topics, live traffic, Home Assistant discovery and statistics |
 | ↳ [app-marshal](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-marshal) | Keeps watch over your Marketplace integrations: reads their code and the packages they install for credential and data access, risky code, internet hosts and slow patterns, and ranks them |
+| ↳ [app-flipper](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-flipper) | A workbench for a Flipper Zero on USB: see its screen, press its buttons, manage its files, and write, build and run apps on it |
+| ↳ [app-scanner](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-scanner) | Makes a USB or network scanner a scanner for the whole house: every option of the scanner, batches, searchable PDFs in an archive, and copies to a network share |
 
 ### 🏠 Home Assistant Custom Integrations
 
