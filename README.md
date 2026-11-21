@@ -48,6 +48,7 @@
 | ↳ [app‑flipper](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-flipper) | A workbench for a Flipper Zero on USB: see its screen, press its buttons, manage its files, and write, build and run apps on it |
 | ↳ [app‑scanner](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-scanner) | Makes a USB or network scanner a scanner for the whole house: every option of the scanner, batches, searchable PDFs in an archive, and copies to a network share |
 | ↳ [app‑dashboard](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-dashboard) | A wall tablet dashboard in a calm, typographic style that you design by dragging: sensors, lights, climate, charts, calendars and cameras on pages of your own, with the doorbell's camera and a dimmed night |
+| ↳ [app‑knxray](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-knxray) | Unofficial, read-only X-ray of a KNX installation: bus monitor, long-term recording with charts and statistics, and checks of the bus, the ETS project and Home Assistant's KNX entities against each other |
 
 ### 🏠 Home Assistant Custom Integrations
 
