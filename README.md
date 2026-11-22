@@ -15,6 +15,12 @@
 | [cyberjunky.nl](https://cyberjunky.nl) | My website (needs an update) |
 | [ghost‑to‑jekyll](https://github.com/cyberjunky/ghost-to-jekyll) | Toolkit to convert a website from Ghost to Jekyll/GitHub pages |
 
+### 📈 Trading
+
+| Project | Description |
+|---------|-------------|
+| [blofin‑proxy](https://github.com/cyberjunky/blofin-proxy) | Caching REST proxy for BloFin fed by websockets: Freqtrade's candles, tickers and order books come from the stream, so the bots stay under Cloudflare's rate limits |
+
 ### 🏠 Home Assistant Core Integrations
 
 | Project | Description |
