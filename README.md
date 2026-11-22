@@ -20,6 +20,7 @@
 | Project | Description |
 |---------|-------------|
 | [blofin‑proxy](https://github.com/cyberjunky/blofin-proxy) | Caching REST proxy for BloFin fed by websockets: Freqtrade's candles, tickers and order books come from the stream, so the bots stay under Cloudflare's rate limits |
+| [frequi](https://github.com/cyberjunky/frequi) | Redesigned FreqUI, the web interface of Freqtrade: new layout and themes, a reworked candle chart, reliable live updates over the WebSocket, and bug fixes |
 
 ### 🏠 Home Assistant Core Integrations
 
