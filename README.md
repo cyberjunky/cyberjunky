@@ -57,6 +57,7 @@
 | ↳ [app‑dashboard](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-dashboard) | A wall tablet dashboard in a calm, typographic style that you design by dragging: sensors, lights, climate, charts, calendars and cameras on pages of your own, with the doorbell's camera and a dimmed night |
 | ↳ [app‑knxray](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-knxray) | Unofficial, read-only X-ray of a KNX installation: bus monitor, long-term recording with charts and statistics, and checks of the bus, the ETS project and Home Assistant's KNX entities against each other |
 | ↳ [app‑lottery](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-lottery) | Solo mining as the lottery it is: your odds of a block, how close your best share came, and every Bitaxe, NerdQAxe or Lucky Miner's stats, with their sensors and Mining switch in Home Assistant over MQTT |
+| ↳ [app‑garminconnect](https://github.com/cyberjunky/home-assistant-apps/tree/main/app-garminconnect) | Your whole Garmin Connect history kept at home, with what the Garmin site doesn't show: what goes with a good night, social jetlag, streaks, days your body looked off, Eddington numbers and a heat map of every track |
 
 ### 🏠 Home Assistant Custom Integrations
 
